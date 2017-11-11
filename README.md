@@ -12,5 +12,5 @@
 + The Concept, Rules and (initial) requirements
 + We’ll iterate around a loop while making this game 
 + Constantly asking “what’s least fun” 
-+ Remember we’re not AAA studios 
++ Remember we’re not AAA studio!!!!!
 + Let’s find the essence of fun of this game.
